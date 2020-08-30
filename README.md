@@ -4,6 +4,8 @@ As title.
 # Leet code
 * https://github.com/azl397985856/leetcode
 * https://github.com/MisterBooo/LeetCodeAnimation
+* https://github.com/labuladong/fucking-algorithm
+* https://labuladong.gitbook.io/algo/
 
 # B树Notes
 ```
