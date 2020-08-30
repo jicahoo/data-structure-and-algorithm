@@ -6,6 +6,7 @@ As title.
 * https://github.com/MisterBooo/LeetCodeAnimation
 * https://github.com/labuladong/fucking-algorithm
 * https://labuladong.gitbook.io/algo/
+* https://github.com/jicahoo/leetcode-scala
 
 # B树Notes
 ```
