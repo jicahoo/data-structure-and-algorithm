@@ -1,6 +1,8 @@
 # data-structure-and-algorithm
 As title.
 
+# Leet code
+* https://github.com/azl397985856/leetcode
 
 # B树Notes
 ```
